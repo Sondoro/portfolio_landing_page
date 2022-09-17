@@ -3,15 +3,16 @@
   font: bolder ;
 }
 body{
-background-color:#0599c2;
-border: 3px solid black;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #0599c2;
+  border: 3px solid black;
+  border
+  font-family: 'Times New Roman', Times, serif;
 }
 .column {
   width: 600px;
- float: left;
+  float: left;
   margin: 20px;
-   }
+}
 .center{
   text-indent: 14cm;
 }
